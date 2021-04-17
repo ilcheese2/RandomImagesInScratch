@@ -5,8 +5,6 @@ import requests
 import io
 import test #See scratchcloudvariables on my github I call the file test
 import time
-from termcolor import colored
-import termcolor
 
 cloud = True
 hues = ""
